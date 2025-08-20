@@ -1,5 +1,6 @@
 # Profile
 ## Name : 김정환
+## E-Mail : maxkjh88@gmail.com
 ### Hansung Science High School (2018 ~ 2020)
 ### Sogang University CSE (2021 ~ )
 # CTF
