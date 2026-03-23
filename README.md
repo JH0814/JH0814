@@ -4,7 +4,7 @@
 ### Hansung Science High School (2018 ~ 2021)
 ### Sogang University CSE (2021 ~ )
 # CTF Player
-Team : Fermion (2025/10 ~ )
+Team : Fermion (2025/10 ~ ), SINE (2026/03 ~ )
 
 <!--
 **JH0814/JH0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
